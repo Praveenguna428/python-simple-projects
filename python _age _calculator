@@ -1,0 +1,18 @@
+rom datetime import datetime
+
+def calculate_age(birthdate):
+    today = datetime.today()
+    birthdate = datetime.strptime(birthdate, "%d/%m/%Y")
+    age = today.year - birthdate.year - ((today.month, today.day) < (birthdate.month, birthdate.day))
+    return age
+
+def main():
+    birthdate = input("Enter your birthdate (DD/MM/YYYY): ")
+    try:
+        age = calculate_age(birthdate)
+        print(f"You are {age} years old.")
+    except ValueError:
+        print("Invalid date format. Please enter the date in DD/MM/YYYY format.")
+
+if __name__ == "__main__":
+    main()
