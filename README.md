@@ -1,6 +1,6 @@
 <h2 align="center"></h2>
-<h1 align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100" height="100"/> --- PYTHON SIMPLE PROJECTS ---   
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100" height="100"/></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/> --- PYTHON SIMPLE PROJECTS ---   
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/></h1>
 <h2 align="left">INTRODUCTION</h2>
 <h3 align="left">This repository provides a variety of simple Python projects that make extensive use of looping and conditional statements. These projects serve as practical examples to help beginners understand how these fundamental concepts are applied in real-world programming scenarios.</h3>
 <h2 align="center"></h2>
