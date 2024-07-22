@@ -1,33 +1,40 @@
-<h1 align="center">Hi, I'm Praveen Kumar Gunasekaran</h1>
-<h3 align="center">Aspiring programmer | Developer</h3>
+<h1 align="center">PYTHON SIMPLE PROJECTS</h1>
+<h2 align="left">INTRODUCTION</h2>
+<h3 align="left">This repository provides a variety of simple Python projects that make extensive use of looping and conditional statements. These projects serve as practical examples to help beginners understand how these fundamental concepts are applied in real-world programming scenarios.</h3>
+<h2 align="left">PROJECTS</h2>
+Anagram Checker:
+This project checks if two provided strings are anagrams of each other. An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, using all the original letters exactly once. The program ignores spaces, punctuation, and capitalization.
 
-- I’m currently [Student](https://docs.google.com/document/d/e/2PACX-1vT4QwxNh6YjFcStfpBFNJf4FbRg45BrhrLT4-JE2EAXdyBI7mB5UouujkLKMfPeaOhS-YlzNwW0JA8r/pub)
+Counting Words in a Sentence:
+This project counts the number of words in a given sentence. It also handles multiple spaces, punctuation, and special characters, providing an accurate word count.
 
-- I’m currently learning **html, python,**
+Evaluating Password Strength:
+A simple tool to evaluate the strength of a password based on its length, use of uppercase and lowercase letters, numbers, and special characters. The program provides feedback on how to improve the password strength.
 
-- I’m currently collaborate on [CodSoft](https://github.com/Praveenguna428/codsoft.git)
+Prime Number Check:
+This project checks if a given number is a prime number. It uses efficient algorithms to determine the primality of the number and provides appropriate output.
 
-- I regularly write articles on [http://craftycodeverse.blogspot.com](http://craftycodeverse.blogspot.com)
+Simple Clock:
+A basic digital clock application that displays the current time. It updates every second and provides a simple GUI for time display.
 
-- Ask me about **SQL, python**
+Ticket Booking:
+A simple ticket booking system that allows users to book tickets, view available seats, and cancel bookings. It simulates a basic booking system with essential functionalities.
 
-- How to reach me **praveenguna428@gmail.com**
+Calculator:
+A basic calculator that performs simple arithmetic operations like addition, subtraction, multiplication, and division. It provides a simple command-line interface for user interaction.
 
-- Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vT4QwxNh6YjFcStfpBFNJf4FbRg45BrhrLT4-JE2EAXdyBI7mB5UouujkLKMfPeaOhS-YlzNwW0JA8r/pub](https://docs.google.com/document/d/e/2PACX-1vT4QwxNh6YjFcStfpBFNJf4FbRg45BrhrLT4-JE2EAXdyBI7mB5UouujkLKMfPeaOhS-YlzNwW0JA8r/pub)
+Factorial Calculator:
+This project calculates the factorial of a given number using both iterative and recursive approaches. The user inputs a number, and the program outputs its factorial.
 
-- Fun fact **I write code like I write jokes—sometimes it works, sometimes it doesn’t, but I always learn something new!**
+Create Factorial:
+Similar to the Factorial Calculator, this project provides additional functionalities and optimizations for calculating factorials, including memoization techniques.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/praveen-kumar-pk2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/praveen-kumar-pk2020" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/praveen_2020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/praveen_2020/" height="30" width="40" /></a>
-</p>
+Create Heart:
+A fun project that generates a heart shape using ASCII characters. It demonstrates the use of nested loops and conditional statements for creating patterns.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Python Age Calculator:
+This project calculates the age of a person based on their birthdate. The user inputs their birthdate, and the program outputs their age in years, months, and days.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenguna428&show_icons=true&locale=en&layout=compact" alt="praveenguna428" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenguna428&show_icons=true&locale=en" alt="praveenguna428" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenguna428&" alt="praveenguna428" /></p>
+To-Do Lists:
+A simple to-do list application that allows users to add, view, and delete tasks. It provides a command-line interface for managing daily tasks and organizing work.
+<h2 align="center"></h2>
